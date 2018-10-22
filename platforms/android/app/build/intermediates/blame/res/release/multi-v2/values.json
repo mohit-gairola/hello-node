@@ -1,0 +1,56 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,2,-1",
+                        "startColumns": "-1,4,-1",
+                        "startOffsets": "-1,55,-1",
+                        "endColumns": "-1,47,-1",
+                        "endOffsets": "-1,98,-1"
+                    },
+                    "to": {
+                        "startLines": "5,6,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "198,262,864",
+                        "endColumns": "63,47,58",
+                        "endOffsets": "257,305,918"
+                    }
+                },
+                {
+                    "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/values/fpauth-colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,102,150",
+                        "endColumns": "46,47,47",
+                        "endOffsets": "97,145,193"
+                    }
+                },
+                {
+                    "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/values/fpauth-strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "310,395,449,533,591,685,731,802,923,1062",
+                        "endColumns": "84,53,83,57,93,45,70,61,138,84",
+                        "endOffsets": "390,444,528,586,680,726,797,859,1057,1142"
+                    }
+                }
+            ]
+        }
+    ]
+}

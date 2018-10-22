@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-port-ldpi_screen.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/xml_config.xml.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/xml/config.xml"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi_ic_fp_40px.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-mdpi/ic_fp_40px.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-land-mdpi_screen.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi_ic_fingerprint_error.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/build/generated/res/pngs/release/drawable-mdpi/ic_fingerprint_error.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxxhdpi_screen.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_fingerprint_error.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/build/generated/res/pngs/release/drawable-xhdpi/ic_fingerprint_error.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/layout_fingerprint_dialog_container.xml.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/layout/fingerprint_dialog_container.xml"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xhdpi_screen.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxhdpi_screen.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi_ic_fp_40px.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-hdpi/ic_fp_40px.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_fingerprint_error.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_fingerprint_error.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-nodpi_android_robot.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-nodpi/android_robot.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_fingerprint_success.xml.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_fingerprint_success.xml"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-ldpi_ic_fingerprint_success.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/build/generated/res/pngs/release/drawable-ldpi/ic_fingerprint_success.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/mipmap-mdpi_icon.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_fp_40px.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-xxxhdpi/ic_fp_40px.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-ldpi_ic_fingerprint_error.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/build/generated/res/pngs/release/drawable-ldpi/ic_fingerprint_error.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_fingerprint_success.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_fingerprint_success.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxxhdpi_screen.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_fingerprint_error.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_fingerprint_error.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-port-hdpi_screen.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi_ic_fingerprint_success.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/build/generated/res/pngs/release/drawable-mdpi/ic_fingerprint_success.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi_ic_fingerprint_success.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/build/generated/res/pngs/release/drawable-hdpi/ic_fingerprint_success.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xhdpi_screen.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/layout_fingerprint_dialog_content.xml.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/layout/fingerprint_dialog_content.xml"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_fp_40px.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-xxhdpi/ic_fp_40px.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_icon.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/mipmap-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-land-ldpi_screen.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_icon.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/mipmap-hdpi_icon.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-land-hdpi_screen.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi_ic_fingerprint_error.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/build/generated/res/pngs/release/drawable-hdpi/ic_fingerprint_error.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/mipmap-ldpi_icon.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/mipmap-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-port-mdpi_screen.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_fingerprint_error.xml.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_fingerprint_error.xml"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_icon.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/mipmap-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_fingerprint_success.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_fingerprint_success.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxhdpi_screen.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_fingerprint_success.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/build/generated/res/pngs/release/drawable-xhdpi/ic_fingerprint_success.png"
+    },
+    {
+        "merged": "/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_fp_40px.png.flat",
+        "source": "/Users/mohit/ionic-app/platforms/android/app/src/main/res/drawable-xhdpi/ic_fp_40px.png"
+    }
+]
