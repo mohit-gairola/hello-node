@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Oct 16 16:55:12 IST 2018
+#Tue Oct 23 13:56:11 IST 2018
 5.base=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/assets/release
 42.base=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_
 32.set=ASSET
@@ -28,7 +28,7 @@
 36.base=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_
 69.file=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/assets/release/www/build/vendor.js
 57.set=ANDROID_RESOURCE
-51.file=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable-land-ldpi-v4/screen.png
+51.file=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/layout/fingerprint_dialog_container.xml
 61.file=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable-xxhdpi-v4/ic_fingerprint_success.png
 8.file=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/assets/release/www/cordova-js-src/platform.js
 12.base=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_
@@ -83,11 +83,11 @@ count=72
 16.set=ASSET
 37.base=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/assets/release
 67.set=ANDROID_RESOURCE
-52.file=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/layout/fingerprint_dialog_container.xml
+52.file=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable-land-ldpi-v4/screen.png
 9.file=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable-port-xxxhdpi-v4/screen.png
 0.set=ANDROID_RESOURCE
 13.base=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_
-46.file=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable-mdpi-v4/ic_fingerprint_error.png
+46.file=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_/AndroidManifest.xml
 56.set=ASSET
 56.file=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/assets/release/www/plugins/cordova-plugin-secure-storage/www/securestorage.js
 7.set=ANDROID_RESOURCE
@@ -140,7 +140,7 @@ count=72
 53.file=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable-hdpi-v4/ic_fingerprint_error.png
 15.set=ASSET
 14.base=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_
-47.file=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_/AndroidManifest.xml
+47.file=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable-mdpi-v4/ic_fingerprint_error.png
 66.set=ASSET
 57.file=/Users/mohit/ionic-app/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable-port-ldpi-v4/screen.png
 55.set=ANDROID_RESOURCE

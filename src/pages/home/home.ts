@@ -32,6 +32,14 @@ fingerprint(){
 .catch((error: any) => console.log(error));
 }
 
+isFingerprintAvailable(){
+  this.faio.isAvailable().then(
+    data=> alert(data),
+    error=>alert(error)
+
+  );
+}
+
 getCredentialsFromKeyStore(){
   this.secureStorage.create('ionic_app2_store_name')
   .then((storage: SecureStorageObject) => {
