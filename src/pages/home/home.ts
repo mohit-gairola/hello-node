@@ -29,7 +29,7 @@ fingerprint(){
     localizedReason: 'Please authenticate' //Only for iOS
 })
 .then((result: any) => console.log(result))
-.catch((error: any) => console.log(error));
+.catch((error: any) => alert(error));
 }
 
 isFingerprintAvailable(){
@@ -64,7 +64,7 @@ getCredentialsFromKeyStore(){
     //  );
     
 
-     storage.get("testKey").then(data => alert(data),error =>console.log(error));
+     storage.get("testKey").then(data => alert(data),error =>alert(error));
 
   });
 }
@@ -94,7 +94,7 @@ setCredentialsInKeyStore(){
      storage.set("testKey","testValue4").then(
            data => {alert(data),
            alert("sucessfully set");},
-           error => console.log(error)
+           error => alert(error)
        );
 
      
@@ -133,7 +133,7 @@ setCredentialsInKeyStore(){
       
        storage.remove("testKey").then(
          data=> alert('remove' + data),
-         error=>console.log(error)
+         error=>alert(error)
     )
        
   
